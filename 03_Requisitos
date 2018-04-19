@@ -1,1 +1,18 @@
+RF_001	Incluir cliente -	O sistema deve permitir que o Gente/Funcionário o registro um cliente. Processo: Cadastrar Cliente
 
+RF_002 Alterar cliente - O sistema deve permitir que o usuário Gente/Funcionário possa alterar os dados de um cliente já cadastrado, porém não podendo alterar o CPF/CNPJ do mesmo.	Processo: Cadastrar Cliente
+
+RF_003 Inativar cliente	- O sistema deve permitir que o usuário Gente/Funcionário inative um cliente cadastrado.	Processo: Cadastrar Cliente
+
+RF_004	Adicionar pedido	- O sistema deve permitir que o usuário Gente/Funcionário
+adicione um pedido.	Processo: Cadastrar pedido
+
+RF_005	Alterar pedido	- O sistema deve permitir que o usuário Gente/Funcionário altere um pedido já cadastrado.	Processo: Cadastrar pedido
+
+RF_006	Excluir pedido	- O sistema deve permitir que o Gente/Funcionário exclua um pedido.	Processo: Cadastrar pedido
+
+RF_007	Gerar nota fiscal do pedido -	O sistema deverá gerar uma nota fiscal após o término de um novo pedido.	Processo: Cadastrar pedido
+
+RF_008	Imprimir ordem de serviço -	O sistema deve emitir a ordem de serviço após a NF ter sido gerada.	Processo: Emitir OS
+
+RF_009 Inlcuir funcionário - O sistema deve permitir que o Gente/Funcionário inclua funcionários para utilizar o sistema. Processo: Cadastrar funcionário
